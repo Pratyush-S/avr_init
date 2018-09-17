@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+///  Project Name : lcd
+//
+//  Target Board : atmega8
+//
+//  Date Created : 18-09-2018 00:28:51
+// 
+//  Online Resource  : www.electronicsforstudents.com
+//
+//  Libraries Included : 
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#include<avr/io.h>
+#include<util/delay.h>
+
+
+#include "lcd.h"
+
+
+int main()
+{
+
+	while (1)
+	{
+		
+
+		// write your code
+
+
+	}
+
+}
