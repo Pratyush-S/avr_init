@@ -1,0 +1,33 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+///  Project Name : wifi2_custom
+//
+//  Target Board : atmega8
+//
+//  Date Created : 18-09-2018 01:39:44
+// 
+//  Online Resource  : www.electronicsforstudents.com
+//
+//  Libraries Included : 
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#include<avr/io.h>
+#include<util/delay.h>
+
+
+#include "serial.h"
+#include "lcd.h"
+
+
+int main()
+{
+
+	while (1)
+	{
+		
+
+		// write your code
+
+
+	}
+
+}
